@@ -791,10 +791,10 @@ footer {
     }
 
     .text-one > p {
-        width: 95%;
-        font-size: 24px;
+        width: 98%;
+        font-size: 20px;
         text-align: center;
-        padding-left: 20px;
+        padding-left: 15px;
     }
 
     .avatar > img {
